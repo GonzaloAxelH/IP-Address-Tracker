@@ -88,6 +88,10 @@ header{
 .app__item-info p{
     font-size: 14px;
 } 
+
+.app__item-info h3{
+    text-transform: uppercase;
+}
 .app__form-group input{
     margin: 0.7em 1em;
     font-size: 17px;
