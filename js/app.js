@@ -66,7 +66,7 @@ function pintarDataMap(data) {
     }
   );
 
-  const coordenadas = [data.location.la, data.location.lng];
+  const coordenadas = [data.location.lat, data.location.lng];
   var map = L.map("map").addLayer(mapboxTiles).setView(coordenadas, 15);
 
   //Mapas emergentes
