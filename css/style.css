@@ -96,7 +96,7 @@ header{
     cursor: pointer;
 }
 
-@media (max-width:411px) {
+@media (max-width:375px) {
 
     .app__box-information-data{
         width: 85vw;
