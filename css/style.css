@@ -112,15 +112,10 @@ header{
     cursor: pointer;
 }
 
-<<<<<<< HEAD
-@media (max-width:375px) {
-=======
 @media (min-width:375px) {
     .app__form-group{
       max-width: 500px;
     }
->>>>>>> 068a20d98a110da99e4825dfb71d45e12db26d4b
-
     .app__box-information-data{
         top: 30%;
     }
@@ -128,10 +123,4 @@ header{
         text-align: left;
         font-size:12px;
     }
-
-<<<<<<< HEAD
 }
-=======
-   
-}
->>>>>>> 068a20d98a110da99e4825dfb71d45e12db26d4b
